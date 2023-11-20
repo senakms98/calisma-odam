@@ -1,0 +1,27 @@
+body { background-image: url("bg.jpeg");  }
+
+
+.bottom-left {
+    position: absolute;
+    bottom: 10%;
+    left: 3%;
+}
+
+.greetings { 
+text-align: center;
+    width: 550px;
+    max-width: 90vw;
+    margin: 0 auto -0.5rem;
+    font-size: 2rem;
+    font-family: "Degular Semibold",sans-serif;
+    font-weight: 600;
+    line-height: 110%;
+    position: absolute;
+      bottom: 50%; 
+      right: 32%;
+}
+
+span {
+    font-weight: bolder;
+    color: rgb(55, 111, 55);
+}
